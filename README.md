@@ -1,5 +1,6 @@
 # stopwatch-project
-Simple Stopwatch using HTML, CSS, JavaScript
+A simple and interactive stopwatch web application built using HTML, CSS, and JavaScript.
+The application allows users to start, pause, reset, and track elapsed time with a clean and responsive user interface.
 # ⏱️ Stopwatch Web Application
 
 A simple and responsive **Stopwatch application** built using **HTML, CSS, and JavaScript**.  
