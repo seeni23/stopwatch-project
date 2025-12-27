@@ -9,7 +9,7 @@ This project demonstrates core JavaScript concepts like DOM manipulation, event 
 ---
 
 ## 🚀 Live Demo
-🔗 https://username.github.io/stopwatch-project/
+🔗 https://username.seenivasan-ui/stopwatch-project/
 
 ---
 
