@@ -33,8 +33,8 @@ This project demonstrates core JavaScript concepts like DOM manipulation, event 
 ## 📂 Project Structure
 stopwatch-project/
 │── index.html
-│── style.css
-│── script.js
+│── stop.css
+│── timer.js
 └── README.md
 ---
 
